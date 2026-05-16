@@ -95,3 +95,11 @@ Check the notes here: https://pagefy.io/system-design/system-design-interview-by
 - [Differential Synchronization](https://neil.fraser.name/writing/sync/)
 - [Differential Synchronization Video](https://www.youtube.com/watch?v=S2Hp_1jqpY8)
 - [How We’ve Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc&feature=youtu.be)
+
+
+## 📚 Download Ebook
+
+The notes have been compiled into ebook format for offline reading:
+
+- [📖 EPUB](./system-design-notes.epub) — Compatible with e-readers (Kindle, Kobo, Apple Books, etc.)
+- [📄 PDF](./system-design-notes.pdf) — For printing or desktop reading
